@@ -1,0 +1,11 @@
+@media screen and (min-width:0px) and (max-width:1200px){
+    .divind{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .divind .card{
+        margin-bottom: 2rem;
+    }
+}

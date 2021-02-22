@@ -1,0 +1,34 @@
+.bodyindex{
+    background-image: url(/src/img/frdoge.png);
+}
+a:link{
+    text-decoration: none;
+    color: inherit;
+}
+nav ul li p a:hover, header h1 a:hover{
+    color: lime;
+}
+a:visited{
+    color: inherit;
+}
+ul li{
+    list-style: none;
+}
+.sectioncarte, .sphotos, .sresto, .scontact{
+    min-height: 80vh;
+}
+.divcarte{
+    height: 50vh;
+}
+.bodycarte{
+    background-image: url(/src/img/hotdoge.png);
+}
+.bodyphotos{
+    background-image: url(/src/img/sndoge.png);
+}
+.bodyresto{
+    background-image: url(/src/img/dogemap.png);
+}
+.bodycontact{
+    background-image: url(/src/img/maildoge.png);
+}
